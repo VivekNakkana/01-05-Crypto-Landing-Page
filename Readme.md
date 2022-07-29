@@ -10,7 +10,7 @@
 
 ### Time Spent : 3 Hours
 
-### [Live Website]()
+### [Live Website](https://plant-page-vivekn.netlify.app/)
 
 ### Quick Look:
 ![img](./5.png)
