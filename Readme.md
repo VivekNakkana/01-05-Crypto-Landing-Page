@@ -10,7 +10,7 @@
 
 ### Time Spent : 3 Hours
 
-### [Live Website](https://plant-page-vivekn.netlify.app/)
+### [Live Website](https://crypto-landing-vivekn.netlify.app/)
 
 ### Quick Look:
 ![img](./5.png)
